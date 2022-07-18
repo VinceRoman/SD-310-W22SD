@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SD-310-W22SD/1.0.0": {
+        "runtime": {
+          "SD-310-W22SD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SD-310-W22SD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
